@@ -15,7 +15,8 @@ function addTask() {
     li.innerHTML = `
     <span>${taskText}</span>
     <div>
-        <button class = "complete"></button>
+        <button class = "complete">✔</button>
+        <button class = "delete">✘</button>
     </div>
     `;
 
