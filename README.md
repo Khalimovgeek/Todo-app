@@ -1,9 +1,9 @@
 TO-DO List Web Application
 --------------------------
 
-Submitted by: Albin D Mamachen
-Position: Software Developer Intern (LTS Task Submission)
-Date: 21 October 2025
+Submitted by: Albin D Mamachen<br />
+Position: Software Developer Intern (LTS Task Submission)<br />
+Date: 21 October 2025<br />
 
 Description:
 -------------
