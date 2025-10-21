@@ -15,8 +15,8 @@ function addTask() {
     li.innerHTML = `
     <span>${taskText}</span>
     <div>
-        <button class = "complete">✔</button>
-        <button class = "delete">✘</button>
+        <button class="complete" style="background: green;">✔</button>
+        <button class="delete" style="background: red;">✘</button>
     </div>
     `;
 
@@ -26,7 +26,7 @@ function addTask() {
             li.classList.toggle("completed");
         });
 
-    li.querySelector(".delelte").addEventListener(
+    li.querySelector(".delete").addEventListener(
         "click", () => {
             li.remove();
         });
