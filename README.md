@@ -28,4 +28,4 @@ todo_app/<br />
 ├── home.html<br />
 ├── style.css<br />
 ├── script.js<br />
-└── README.txt<br />
+└── README.md<br />
