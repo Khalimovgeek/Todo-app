@@ -23,9 +23,9 @@ How to Run:
 
 Folder Structure:
 ------------------
-todo_app/
-│
-├── home.html
-├── style.css
-├── script.js
-└── README.txt
+todo_app/<br />
+│<br />
+├── home.html<br />
+├── style.css<br />
+├── script.js<br />
+└── README.txt<br />
