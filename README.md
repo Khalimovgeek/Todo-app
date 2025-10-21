@@ -18,9 +18,8 @@ Features:
 
 How to Run:
 -------------
-1. Extract the ZIP file.
-2. Open "home.html" in any modern web browser.
-3. Add, complete, or delete tasks.
+1. Open "home.html" in any modern web browser.
+2. Add, complete, or delete tasks.
 
 Folder Structure:
 ------------------
